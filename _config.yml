@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Gogoal Falia"
 title_separator          : "-"
 name                     : &name "Gogoal Falia"
-description              : | 
+bio: |
     MBBS, MBA, CPH
     Ph.D. Candidate, Health Services Research
     Southwest Rural Health Research Center
@@ -32,7 +32,7 @@ author:
   name             : "Gogoal Falia"
   pronouns         : # example: "he/him/his"  
   bio              : "Doctoral Candidate in Health Services Research with interests in Climate Change and Health"
-  location         : "College Station, Texas,"
+  location         : "College Station, Texas"
   employer         : "Texas A&M University"
   uri              : # URL
   email            : "faliag@tamu.edu" 
