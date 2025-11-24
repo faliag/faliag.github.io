@@ -1,10 +1,9 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My name is Gogoal Falia and welcome to my website."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Gogoal Falia and welcome to my website.
