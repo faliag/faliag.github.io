@@ -24,7 +24,7 @@ repository               : "faliag/faliag.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/gfaliaheadshot.jpg"
+  avatar           : "/images/gfaliaheadshot.jpeg"
   name             : "Gogoal Falia"
   pronouns         : # example: "he/him/his"  
   Bio              : "MBBS, MBA, CPH"
