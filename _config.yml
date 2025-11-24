@@ -27,7 +27,11 @@ author:
   avatar           : "/images/gfaliaheadshot.jpg"
   name             : "Gogoal Falia"
   pronouns         : # example: "he/him/his"  
-  bio              : "Doctoral Candidate in Health Services Research with interests in Climate Change and Health"
+  bio: |
+  MBBS, MBA, CPH
+  Ph.D. Candidate, Health Services Research
+  Southwest Rural Health Research Center
+  Department of Health Policy and Management
   location         : "College Station, Texas"
   employer         : "Texas A&M University"
   uri              : # URL
