@@ -24,9 +24,9 @@ repository               : "faliag/faliag.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/gfaliaheadshot.jpeg"
+  avatar           : "gfaliaheadshot.jpg"
   name             : "Gogoal Falia"
-  pronouns         : # example: "he/him/his"  
+  pronouns         : "he/him/his" # example: "he/him/his"  
   Bio              : "MBBS, MBA, CPH"
   location         : "College Station, Texas"
   employer         : "Texas A&M University"
