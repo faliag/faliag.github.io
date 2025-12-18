@@ -11,4 +11,4 @@ Welcome to my website. I am a 5th-year PhD Candidate in Health Services Research
 
 Prior to Texas A&M University, I worked as a Primary Care Physician (PCP) in India and as a Lecturer (US Assistant Professor equivalent) in the Republic of Ireland. I received my MBBS (US MD equivalent) from West Bengal University of Health Sciences, India in 2014 and my MBA from [Trinity Business School](https://www.tcd.ie/business/) at [Trinity College, Dublin](https://www.tcd.ie/) in the Republic of Ireland in 2018. In my free time, I cook, travel, read and write poetry, and volunteer.
 
-To learn more about my work, please view my [CV](/files/gfaliacvnovember2025.pdf). I am always open to collaborating with colleagues and mentoring students across disciplines and at all levels. Please reach out if you are interested in my research.
+To learn more about my work, please view my [CV](/files/GFalia_CV_Dec2025.pdf). I am always open to collaborating with colleagues and mentoring students across disciplines and at all levels. Please reach out if you are interested in my research.
