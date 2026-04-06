@@ -1,7 +1,7 @@
 ---
 title: "Exploring Rurality and Racial/Ethnic Disparities in Texas Mortality: A Scoping Review of the Five Leading Causes of Death"
 collection: publications
-category: "Published Journal Articles"
+category: manuscripts
 permalink: /publication/2025-texas-mortality-disparities
 excerpt: 'A scoping review of mortality in Texas, focusing on how rurality and race intersect within the leading causes of death.'
 date: 2025-05-01
