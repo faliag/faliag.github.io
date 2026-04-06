@@ -11,13 +11,14 @@ location: "College Station, TX"
 I served as a Graduate Assistant Lecturer and Instructor of Record (IOR) for multiple sections of this foundational course within the Bachelor of Science in Public Health (BSPH) curriculum.
 
 I served as a Graduate Assistant Lecturer and Instructor of Record (IOR) for multiple sections of this foundational course within the Bachelor of Science in Public Health (BSPH) curriculum.
+
 Semesters Taught
 
-    Spring 2023, Spring 2024
+Spring 2023, Spring 2024
 
-    Fall 2025 (Sections 906, 907, 910, 911)
+Fall 2025 (Sections 906, 907, 910, 911)
 
-    Spring 2026 (Sections 910, 911)
+Spring 2026 (Sections 910, 911)
 
 Course Overview
 
