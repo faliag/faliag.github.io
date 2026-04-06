@@ -1,7 +1,7 @@
 ---
 title: "Association of adverse pregnancy outcomes and intimate partner violence survivorship: A cross-sectional survey"
 collection: publications
-category: manuscripts
+category: "Published Journal Articles"
 permalink: /publication/2026-ipv-pregnancy-outcomes
 excerpt: 'A cross-sectional survey exploring the link between intimate partner violence and adverse outcomes during pregnancy.'
 date: 2026-02-01

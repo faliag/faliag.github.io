@@ -1,7 +1,7 @@
 ---
 title: "Opportunities and Challenges of Using Carve-Outs to Fund Rural Public Health Initiatives: Evidence From the COVID-19 Pandemic"
 collection: publications
-category: manuscripts
+category: "Published Journal Articles"
 permalink: /publication/2023-rural-public-health-carveouts
 excerpt: 'This paper examines the use of funding carve-outs during the COVID-19 pandemic to support rural public health initiatives.'
 date: 2023-09-01

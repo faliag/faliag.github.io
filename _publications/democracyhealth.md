@@ -1,7 +1,7 @@
 ---
 title: "Threats to democracy are threats to health"
 collection: publications
-category: manuscripts
+category: "Published Journal Articles"
 permalink: /publication/2025-democracy-health-threats
 excerpt: 'A perspective on the intrinsic link between democratic stability and public health outcomes.'
 date: 2025-03-01

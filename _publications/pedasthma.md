@@ -1,7 +1,7 @@
 ---
 title: "Rural-Urban differences in prevalence, presentation, and outcomes for pediatric asthma, 2016-2021"
 collection: publications
-category: manuscripts
+category: "Published Journal Articles"
 permalink: /publication/2026-pediatric-asthma-outcomes
 excerpt: 'This study investigates the differences between rural and urban areas regarding how pediatric asthma presents and the resulting clinical outcomes.'
 date: 2026-01-01
