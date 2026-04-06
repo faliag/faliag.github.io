@@ -6,6 +6,9 @@ permalink: /teaching/phlt-310-writing
 venue: "Texas A&M University, School of Public Health"
 date: 2026-01-01
 location: "College Station, TX"
+---
+
+I served as a Graduate Assistant Lecturer and Instructor of Record (IOR) for multiple sections of this foundational course within the Bachelor of Science in Public Health (BSPH) curriculum.
 
 I served as a Graduate Assistant Lecturer and Instructor of Record (IOR) for multiple sections of this foundational course within the Bachelor of Science in Public Health (BSPH) curriculum.
 Semesters Taught
